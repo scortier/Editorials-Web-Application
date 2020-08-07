@@ -1,6 +1,6 @@
 # Editorials-Web-Application
 
-> Create public and private stories from your life
+> Create public and private editorials.
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
