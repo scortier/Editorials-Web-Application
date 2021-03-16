@@ -1,5 +1,6 @@
 # Editorials-Web-Application
 
+Open [Editorial](https://editorial-web-app.herokuapp.com/) to view it in the browser.
 > Create public and private editorials.
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
